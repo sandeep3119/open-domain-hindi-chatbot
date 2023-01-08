@@ -4,6 +4,7 @@ This is a experimentation work to build a open domain chatbot for hindi Language
 ## Data used
 - The original data is from  [Daily-Dialog Dataset](https://aclanthology.org/I17-1099/)
 - We have translated the data using [AI4Bharat Indic Trans Model](https://ai4bharat.org/indic-trans). You can find the translation script in the repo.
+- Download the [en-indic model](https://drive.google.com/file/d/1r0dC2V4QxRH1Fd9KPvv6lREzJuvMlOQl/view?usp=sharing)
 - You can find the Preporcessed data in the /data directory.
 
 
