@@ -1,5 +1,5 @@
 # open-domain-hindi-chatbot
-This is a experimentation work to build a open domain chatbot for hindi Language.
+This is a experimentation work to build an open domain chatbot for hindi Language.
 
 ## Data used
 - The original data is from  [Daily-Dialog Dataset](https://aclanthology.org/I17-1099/)
@@ -9,7 +9,7 @@ This is a experimentation work to build a open domain chatbot for hindi Language
 
 
 ## Architectures
-We have compared 3 different architecture in incremental fashion.
+We have compared 4 different architecture in incremental fashion.
 1. Sequence-Sequence(Bi-GRU)
 2. Sequence-Sequence(Bi-GRU) + Attention
 3. Sequence-Sequence(Bi-GRU) + TCN + Attention
