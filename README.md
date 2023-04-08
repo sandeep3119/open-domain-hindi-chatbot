@@ -12,7 +12,8 @@ This is a experimentation work to build a open domain chatbot for hindi Language
 We have compared 3 different architecture in incremental fashion.
 1. Sequence-Sequence(Bi-GRU)
 2. Sequence-Sequence(Bi-GRU) + Attention
-3. Sequence-sequence(Transformer)
+3. Sequence-Sequence(Bi-GRU) + TCN + Attention
+4. Sequence-sequence(Transformer)
 
 ## Results
 Yet to be added.
