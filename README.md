@@ -15,11 +15,19 @@ We have compared 4 different architecture in incremental fashion.
 3. Sequence-Sequence(Bi-GRU) + TCN + Attention
 4. Sequence-sequence(Transformer)
 
+## Pretrained Embeddings
+Fastext Pretrained Hindi Embeddings were also used to see if it can contribute to enhance the model's performance.
+
 ## Results
 Yet to be added.
 
-## Reference 
+## Colab Notebooks.
+Yet to be added.
+
+###Note
+It's a part of my Mtech research work at NIT Silchar.
+
+### Reference 
 The code and experiment is highly influenced by
 1. [Pytorch chatbot tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)
 2. [Fawaz sammani Transfomer Chatbot Tutorial](https://github.com/fawazsammani/chatbot-transformer)
-
