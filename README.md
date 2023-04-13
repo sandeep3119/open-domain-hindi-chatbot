@@ -21,9 +21,6 @@ Fastext Pretrained Hindi Embeddings were also used to see if it can contribute t
 ## Results
 Yet to be added.
 
-## Colab Notebooks.
-Yet to be added.
-
 ### Note
 It's a part of my Mtech research work at NIT Silchar.
 
